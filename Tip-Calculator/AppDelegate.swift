@@ -1,6 +1,5 @@
 //
 //  AppDelegate.swift
-//  Prework
 //
 //  Created by Kevin Nguyen on 7/11/22.
 //
